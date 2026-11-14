@@ -125,10 +125,8 @@ Saves do jogo em inglês funcionam normalmente na versão traduzida.
 
 ### 🎮 Onde jogar
 
-- **Emulador melonDS (recomendado):** ligue o **JIT** em *Config → Emu settings → CPU emulation → "Enable JIT
-  recompiler"* (com *Branch optimisations*, *Literal optimisations* e *Fast memory* ligados). **Sem o JIT o jogo dá
-  travadinhas nas falas**, mesmo em PC forte, porque a emulação do processador do DS usa praticamente um núcleo só. Com o
-  JIT ligado roda liso, até com resolução interna 8x.
+- **Emulador melonDS (recomendado):** se o seu PC permitir, ligue o **JIT** em *Config → Emu settings → CPU emulation →
+  "Enable JIT recompiler"*, que deixa a emulação mais rápida.
 - **DS / 3DS com flashcard ou TWiLight Menu++:** copie a ROM traduzida para o cartão como qualquer outra ROM.
 
 ## 🔒 Segurança
@@ -141,7 +139,6 @@ Saves do jogo em inglês funcionam normalmente na versão traduzida.
 | Sintoma | Causa provável |
 |---|---|
 | O patcher diz que o arquivo não confere | A ROM não é a americana sem modificação. Confira o CRC32/MD5 acima. |
-| Travadinhas nas falas (melonDS) | O JIT está desligado. Veja "Onde jogar". |
 | Textos misturados depois de trocar de versão | Você carregou um *save state* de outra versão. Feche o jogo e continue pelo save normal. |
 | Travamento ou tela preta | Abra uma issue informando onde aconteceu. |
 
