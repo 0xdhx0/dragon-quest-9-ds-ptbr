@@ -1,6 +1,6 @@
 ![Dragon Quest IX: Sentinels of the Starry Skies — Tradução PT-BR](imagens/banner.png)
 
-# ⭐ Dragon Quest IX: Sentinels of the Starry Skies (DS) — Tradução PT-BR v1.0
+# ⭐ Dragon Quest IX: Sentinels of the Starry Skies (DS) — Tradução PT-BR v1.1
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%20DS-ce181e)
@@ -39,9 +39,9 @@ aviso legal no fim desta página).*
 </tr>
 </table>
 
-## 📥 Download (v1.0)
+## 📥 Download (v1.1)
 
-**[⬇️ Baixar `DQ9_DS_PTBR_v1.0.zip`](../../releases/latest)**: os dois patches (`.xdelta`), o guia `LEIA-ME.txt` e os
+**[⬇️ Baixar `DQ9_DS_PTBR_v1.1.zip`](../../releases/latest)**: os dois patches (`.xdelta`), o guia `LEIA-ME.txt` e os
 termos de uso.
 
 | Dentro do zip | O que é |
