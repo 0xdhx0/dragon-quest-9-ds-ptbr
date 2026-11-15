@@ -18,10 +18,6 @@ aviso legal no fim desta página).*
 > no cartucho), menus, itens, magias, habilidades, monstros, nomes das grutas dos mapas do tesouro, os comentários da
 > Stella e as imagens com texto. Testado no emulador melonDS. Se achar algum problema, abra uma [issue](../../issues).
 
-> 🇯🇵 **Traduzida com duas visões do texto desde o começo**: o inglês como base (sentido, piadas e sotaques da
-> localização) e o **japonês original** para acertar gênero e plural de quem fala, com quem fala e o que o inglês deixa
-> ambíguo.
-
 ## 📸 Fotos
 
 <table>
