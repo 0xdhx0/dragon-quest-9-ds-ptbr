@@ -15,18 +15,11 @@ body:
         - Outro
     validations:
       required: true
-  - type: dropdown
-    id: edicao
-    attributes:
-      label: Versão do patch usada
-      options: ["Nomes Traduzidos (tudo em português)", "Nomes Originais (nomes e imagens do jogo original)"]
-    validations:
-      required: true
   - type: input
     id: versao
     attributes:
       label: Versão do patch
-      placeholder: "v1.0"
+      placeholder: "v1.2"
     validations:
       required: true
   - type: input
@@ -34,7 +27,7 @@ body:
     attributes:
       label: Onde aconteceu
       description: Cidade, mapa, cena ou menu.
-      placeholder: "Stornway, castelo, depois da fala do Rei Schott"
+      placeholder: "Pedravia, castelo, depois da fala do Rei Schott"
     validations:
       required: true
   - type: textarea

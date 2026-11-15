@@ -1,6 +1,6 @@
 ![Dragon Quest IX: Sentinels of the Starry Skies — Tradução PT-BR](imagens/banner.png)
 
-# ⭐ Dragon Quest IX: Sentinels of the Starry Skies (DS) — Tradução PT-BR v1.1
+# ⭐ Dragon Quest IX: Sentinels of the Starry Skies (DS) — Tradução PT-BR
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-Nintendo%20DS-ce181e)
@@ -8,90 +8,73 @@
 ![Release](https://img.shields.io/github/v/release/0xdhx0/dragon-quest-9-ds-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
-Tradução de fã do **Dragon Quest IX: Sentinels of the Starry Skies** (Nintendo DS, versão americana) para o
-**português do Brasil**.
+Tradução de fã do **Dragon Quest IX: Sentinels of the Starry Skies** (Nintendo DS, versão americana).
+**Tradução completa para o português do Brasil**, com menus, história, diálogos, missões, magias, itens,
+monstros, lugares e imagens com texto em português.
 
 *Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix ou a Nintendo (veja o
 aviso legal no fim desta página).*
 
-> ✅ O jogo inteiro está traduzido: história, falas de todas as cidades, as 184 missões (inclusive as extras que já vêm
-> no cartucho), menus, itens, magias, habilidades, monstros, nomes das grutas dos mapas do tesouro, os comentários da
-> Stella e as imagens com texto. Testado no emulador melonDS. Se achar algum problema, abra uma [issue](../../issues).
+> ✅ O jogo inteiro está traduzido. Se achar algum problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
-<table>
-<tr>
-<td align="center"><img src="imagens/fotos/02.jpg" width="400"><br><sub>Tela de início</sub></td>
-<td align="center"><img src="imagens/fotos/03.jpg" width="400"><br><sub>Criação de personagem</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="imagens/fotos/04.jpg" width="400"><br><sub>Diálogo da história</sub></td>
-<td align="center"><img src="imagens/fotos/06.jpg" width="400"><br><sub>O Guardião da vila</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="imagens/fotos/01.jpg" width="400"><br><sub>Batalha: comandos e táticas</sub></td>
-<td align="center"><img src="imagens/fotos/05.jpg" width="400"><br><sub>Menu principal</sub></td>
-</tr>
-</table>
-
-## 📥 Download (v1.1)
-
-**[⬇️ Baixar `DQ9_DS_PTBR_v1.1.zip`](../../releases/latest)**: os dois patches (`.xdelta`), o guia `LEIA-ME.txt` e os
-termos de uso.
-
-| Dentro do zip | O que é |
+| | |
 |---|---|
-| `DQ9_PTBR_NomesTraduzidos.xdelta` | Versão Nomes Traduzidos (tudo em português) |
-| `DQ9_PTBR_NomesOriginais.xdelta` | Versão Nomes Originais (igual à Nomes Traduzidos, mas com os nomes que se procuram num guia e as imagens como no original) |
+| ![Tela de início](imagens/fotos/02.jpg) | ![Criação de personagem](imagens/fotos/03.jpg) |
+| Tela de início | Criação de personagem |
+| ![Diálogo da história](imagens/fotos/04.jpg) | ![O Guardião da vila](imagens/fotos/06.jpg) |
+| Diálogo da história | O Guardião da vila |
+| ![Batalha: comandos e táticas](imagens/fotos/01.jpg) | ![Menu principal](imagens/fotos/05.jpg) |
+| Batalha: comandos e táticas | Menu principal |
 
-## 🎭 Duas versões: escolha a sua
+## 📥 Download
 
-| | **Nomes Traduzidos** | **Nomes Originais** |
+**[⬇️ Baixar a tradução](../../releases/latest)** (página da versão mais recente). Dentro do zip vem o patch (`.xdelta`)
+e um guia `LEIA-ME.txt`. Como aplicar: veja **💾 Instalação** abaixo.
+
+## 🎮 O que foi traduzido
+
+| Parte | Textos diferentes | Cobertura |
 |---|---|---|
-| Menus e telas | Português | Português |
-| História, diálogos, missões e mensagens | Português | Português |
-| Descrições de itens, magias, habilidades e monstros | Português | Português |
-| Piadas, sotaques e trocadilhos dentro das falas | Recriados em português | Recriados em português |
-| Magias, habilidades e golpes | Português (*Fogo, Megafogo, Gigafogo, Ressuscitar*) | Originais (*Frizz, Kafrizz, Kafrizzle, Zing*) |
-| Vocações | Português (*Menestrel, Armágico, Astro*) | Originais (*Minstrel, Armamentalist, Luminary*) |
-| Itens, armas e equipamentos | Português (*Erva Medicinal, Asa de Quimera, Espada de Cobre*) | Originais (*Medicinal Herb, Chimaera Wing, Copper Sword*) |
-| Monstros, inclusive chefes | Português (*Draculino, Pepinferno, Slime Metálico*) | Originais (*Dracky, Cruelcumber, Metal Slime*) |
-| Cidades, mapas e grutas dos mapas do tesouro | Português (*Salto do Anjo, Covalinda, Caverna de Granito da Desgraça*) | Originais (*Angel Falls, Coffinwell, Granite Cave of Woe*) |
-| Pousadas, lojas e organizações | Português (*Pousada do Aventureiro, Guerrilheiros da Fortaleza Sangrenta*) | Português (iguais) |
-| Apelidos-trocadilho de personagem | Português (*Prefeito Malário, Al Pousone*) | Originais (*Mayor Laria, Al Capinne*) |
-| Títulos com nome (o título se traduz, o nome não) | Português (*Rei Schott, Princesa Simona, Prefeito Bryce*) | Português (iguais) |
-| Nomes próprios sem trocadilho (Stella, Aquila, Erinn, Stornway, Apus Major…) | Iguais | Iguais |
-| PV / PM / Nv | PV / PM / Nv | PV / PM / Nv |
-| Imagens com texto (título, telas de menu, carimbos das missões) | Traduzidas | Originais |
+| História, falas de todas as cidades, as 184 missões (inclusive as extras que já vêm no cartucho), livros, placas e os comentários da Stella | 12.886 | 100% |
+| Menus, batalha, lojas, alquimia, pousada, títulos, bestiário, descrições e nomes das grutas dos mapas do tesouro | 6.885 | 100% |
+| Nomes de itens, magias, habilidades, vocações e monstros | 1.838 | 100% |
+| Imagens com texto (tela de início, criação de personagem, telas de menu, carimbos das missões, efeitos da batalha) | 74 arquivos | 100% |
 
-- **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados. Nome próprio não se traduz,
-  mas o título que vem com ele sim ("King Schott" = "Rei Schott").
-- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
-  procura num guia: os nomes de **cidades, mapas e grutas, itens, equipamentos, magias, habilidades, vocações e monstros**
-  ficam como no original, além das imagens. Todo o resto continua em português: menus, história, missões, descrições,
-  títulos com nome. Exemplo: na batalha a magia aparece como *Kafrizz* e o monstro como *Metal Slime*, mas toda a frase em volta continua em português.
-
-## ✨ Destaques da tradução
-
-- **Vozes:** cada personagem fala do seu jeito. A Stella xinga com "asa" (*"raios de asa!"*), o Sterling fala solto,
-  os sotaques regionais do inglês viraram sotaques leves do Brasil (Stornway gaúcho, Zere mineiro, Porth Llaffan
-  nordestino, Wormwood carioca), e os convidados da Pousada de outros Dragon Quest falam como nos seus jogos.
-- **Magias de nível:** padrão base < Super < Mega < Giga (*Fogo, Megafogo, Gigafogo*), igual ao da nossa tradução do
-  Dragon Quest VIII.
+- **Tudo a partir do inglês**, a versão cheia de humor britânico, sotaques e nomes com trocadilhos, conferido com o
+  **japonês** para entender quem fala com quem, o gênero e a intenção de cada fala. Quando o inglês faz piada, a piada
+  foi recriada em português em vez de traduzida ao pé da letra.
+- **Cada personagem fala do seu jeito:** a Stella xinga com "asa" (*"raios de asa!"*), o Sterling fala solto, os
+  sotaques regionais do inglês viraram sotaques leves do Brasil (Pedravia gaúcha, Zere mineira, Porto Llaffan
+  nordestino, Riacho da Losna carioca), e os convidados da Pousada que vêm de outros Dragon Quest falam como nos seus jogos.
 - **Gênero do herói:** as falas concordam com o herói ou a heroína (*"bem-vindo/bem-vinda"*, *"Guardião/Guardiã"*).
-- **Trocadilhos recriados:** *Coffinwell → Covalinda · Mayor Laria → Prefeito Malário · Al Capinne → Al Pousone ·
+- **Medidas no lugar:** todo texto foi medido pixel a pixel para caber nas caixas de fala (3 linhas) e nos menus do DS.
+- **Interface:** PV/PM/Nv no lugar de HP/MP/Lv, moeda com "O" de ouro, artigos e gênero corretos nas mensagens de
+  batalha e nomes das grutas na ordem natural do português (*"Caverna de Granito da Desgraça"*).
+
+### Alguns exemplos
+
+- **Magias:** *Frizz/Kafrizz/Kafrizzle → Fogo/Megafogo/Gigafogo · Zam/Zammle/Kazam → Treva/Supertreva/Megatreva*.
+  Mesmo padrão base < Super < Mega < Giga da nossa tradução do Dragon Quest VIII.
+- **Monstros:** traduzidos, com graça (*Dracky → Draculino · Cruelcumber → Pepinferno · Manguini → Bocarrini*);
+  Slime fica, porque já é palavra usada em português.
+- **Lugares com trocadilho:** recriados (*Coffinwell → Covalinda · Stornway → Pedravia · Swinedimples → Porcoverrugas ·
+  Wormwood Creek → Riacho da Losna · The Gittish Empire → Império Brutânico*).
+- **Personagens com trocadilho:** *Mayor Laria → Prefeito Malário · Al Capinne → Al Pousone ·
   Grandmaster Wun Tun Punch → Grão-Mestre Yakissoco*.
-- **Nomes das grutas** na ordem natural do português: *"Caverna de Granito da Desgraça"*.
 
 ## 🚫 O que não foi traduzido (de propósito)
 
 | O quê | Por quê |
 |---|---|
-| Nomes próprios (Stella, Aquila, Erinn, Stornway, Apus Major…) | São nomes, iguais em todas as versões do jogo. |
-| Logotipo do título, copyright e créditos com nomes da equipe | Arte, marcas registradas e nomes próprios (os cargos dos créditos foram traduzidos). |
+| Nomes próprios (Stella, Aquila, Erinn, Zere, Gleeba, Apus Major…) | São nomes, iguais em todas as versões do jogo. |
+| Logotipo do título e copyright | Arte e marcas registradas. |
+| Créditos (cargos e nomes da equipe) | Ficam como no original. |
+| Falas em francês da Fleurette e da Madame Couteau, em italiano do Morrie e em alemão do Doktor Münster | De propósito, como no original (o sotaque é a piada). |
 | DQVC | Nome da loja especial. |
-| Teclado de nome sem ã/õ | O teclado do jogo original não tem essas letras (é limitação do jogo). |
+| Slime | Nome de monstro que já é palavra usada em português. |
+| Teclado de nome sem ã/õ | O teclado do jogo original não tem essas letras (limitação do jogo). |
 
 ## 💿 O que você precisa
 
@@ -106,24 +89,21 @@ Confira se a sua ROM é a certa (`.nds` sem modificação):
 | SHA-1 | `c7c3014c237900c8281289b8bc76a781969b6278` |
 | Tamanho | 268.435.456 bytes (256 MB) |
 
-## 💾 Como aplicar o patch
+## 💾 Instalação
 
-Escolha **uma** versão (Nomes Traduzidos ou Nomes Originais) e aplique o `.xdelta` dela na sua ROM. O resultado é uma
-ROM nova; guarde a original.
+Aplique o `.xdelta` na sua ROM americana. O resultado é uma ROM nova; guarde a original.
 
 - **🌐 No navegador (mais fácil):** abra o [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/), escolha a sua
   ROM em *ROM file*, o `.xdelta` em *Patch file* e clique em *Apply patch*. Funciona no PC e no celular.
 - **🖥️ No PC:** use o [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) (Windows, Linux, macOS) ou o
   `xdelta3` na linha de comando:
-  `xdelta3 -d -s "Dragon Quest IX (USA).nds" DQ9_PTBR_NomesTraduzidos.xdelta "DQ9_PTBR.nds"`
+  `xdelta3 -d -s "Dragon Quest IX (USA).nds" DQ9_PTBR.xdelta "DQ9_PTBR.nds"`
+- **🎮 Onde jogar:** em qualquer emulador de DS (no melonDS, se o PC permitir, ligue o **JIT** em *Config → Emu
+  settings → CPU emulation* para a emulação ficar mais rápida) ou num DS/3DS com flashcard ou TWiLight Menu++.
+- **Para atualizar** a partir de qualquer versão anterior (inclusive a antiga Nomes Originais), aplique o patch novo na
+  **ROM americana original**, não na ROM traduzida antiga.
 
-Saves do jogo em inglês funcionam normalmente na versão traduzida.
-
-### 🎮 Onde jogar
-
-- **Emulador melonDS (recomendado):** se o seu PC permitir, ligue o **JIT** em *Config → Emu settings → CPU emulation →
-  "Enable JIT recompiler"*, que deixa a emulação mais rápida.
-- **DS / 3DS com flashcard ou TWiLight Menu++:** copie a ROM traduzida para o cartão como qualquer outra ROM.
+Saves do jogo em inglês e das versões anteriores funcionam normalmente.
 
 ## 🔒 Segurança
 
@@ -134,14 +114,13 @@ Saves do jogo em inglês funcionam normalmente na versão traduzida.
 
 | Sintoma | Causa provável |
 |---|---|
-| O patcher diz que o arquivo não confere | A ROM não é a americana sem modificação. Confira o CRC32/MD5 acima. |
-| Textos misturados depois de trocar de versão | Você carregou um *save state* de outra versão. Feche o jogo e continue pelo save normal. |
+| O patcher diz que o arquivo não confere | A ROM não é a americana sem modificação (ou já é uma ROM traduzida). Confira o CRC32/MD5 acima. |
+| Textos misturados depois de atualizar | Você carregou um *save state* feito com a versão anterior. Feche o jogo e continue pelo save normal. |
 | Travamento ou tela preta | Abra uma issue informando onde aconteceu. |
 
 ## 🐞 Achou um erro?
 
-Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão (Nomes Traduzidos ou
-Nomes Originais), o lugar do jogo e, se puder, mande um print. Toda correção de português também é bem-vinda.
+Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão do patch, o lugar do jogo e, se puder, mande um print. Toda correção de português também é bem-vinda.
 
 ## 🙏 Créditos
 
@@ -149,9 +128,9 @@ Nomes Originais), o lugar do jogo e, se puder, mande um print. Toda correção d
 - **Documentação dos formatos do jogo:** projeto [DQIX](https://github.com/DQIX) (DQI-haX).
 - **Fontes livres** usadas no banner: Cinzel e Arimo (licença OFL).
 
-**Como foi feita:** a tradução usou ferramentas de IA, com revisão. Todo o texto foi traduzido a partir do inglês e do
-japonês, com o contexto da história e o jeito de falar de cada personagem, conferido pixel a pixel para caber na tela e
-testado no melonDS. Se achar uma frase estranha, abra uma [issue](../../issues), porque toda sugestão ajuda.
+**Como foi feita:** a tradução usou ferramentas de IA. Todo o texto foi traduzido a partir do inglês e conferido com o
+japonês, com o contexto da história e o jeito de falar de cada personagem, medido pixel a pixel para caber na tela e
+testado no jogo. Se achar uma frase estranha, abra uma [issue](../../issues), porque toda sugestão ajuda.
 
 ## ⚖️ Aviso legal e uso
 
@@ -160,7 +139,7 @@ testado no melonDS. Se achar uma frase estranha, abra uma [issue](../../issues),
   é oficial, nem aprovado ou apoiado por elas.
 - *Dragon Quest IX: Sentinels of the Starry Skies* e todos os nomes, marcas e personagens pertencem aos seus donos
   (© ARMOR PROJECT/BIRD STUDIO/LEVEL-5/SQUARE ENIX, © KOICHI SUGIYAMA).
-- O pacote contém **só os patches (`.xdelta`)** com as diferenças da tradução e **não funciona sem uma cópia do jogo
+- O pacote contém **só o patch (`.xdelta`)** com as diferenças da tradução e **não funciona sem uma cópia do jogo
   original**. O jogo não é distribuído aqui: não peça nem compartilhe ROMs (`.nds`) neste repositório.
 - Pode usar e compartilhar o patch à vontade, **de graça**. Ele **não pode ser vendido** nem monetizado. Se alguém
   cobrou por ele, você foi enganado. Veja [LICENSE.txt](LICENSE.txt).
