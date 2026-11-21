@@ -21,7 +21,7 @@ aviso legal no fim desta página).*
 
 | | |
 |---|---|
-| ![Tela de início](imagens/fotos/02.jpg) | ![Criação de personagem](imagens/fotos/03.jpg) |
+| ![Tela de início](imagens/fotos/02.jpg) | ![Criação de personagem](imagens/fotos/07.jpg) |
 | Tela de início | Criação de personagem |
 | ![Diálogo da história](imagens/fotos/04.jpg) | ![O Guardião da vila](imagens/fotos/06.jpg) |
 | Diálogo da história | O Guardião da vila |
